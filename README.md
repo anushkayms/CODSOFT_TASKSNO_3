@@ -22,7 +22,7 @@ The assessment combines static analysis, dependency analysis, secrets scanning, 
 
 The complete OWASP ZAP HTML report generated during the DAST assessment is available here:
 
-🔗 [View Live OWASP ZAP Report](YOUR-LIVE-ZAP-REPORT-LINK)
+🔗 [View Live OWASP ZAP Report]([Uploading 2026-08-23-ZAP-Report-.html…])
 
 The report contains detailed information about the requests, responses, alerts, risk levels, and findings identified during the security assessment.
 
