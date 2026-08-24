@@ -18,14 +18,6 @@ The assessment combines static analysis, dependency analysis, secrets scanning, 
 * **Manual Review** — Review of authentication, database access, redirect handling, and other security-sensitive code against OWASP Top 10 (2021)
 * **DAST** — Dynamic Application Security Testing using OWASP ZAP against a locally running Juice Shop instance
 
-## Live Security Assessment Report
-
-The complete OWASP ZAP HTML report generated during the DAST assessment is available here:
-
-🔗 [View Live OWASP ZAP Report](file:///C:/Users/anush/OneDrive/Desktop/2026-08-24-ZAP-Report%20_%202-.html)
-
-The report contains detailed information about the requests, responses, alerts, risk levels, and findings identified during the security assessment.
-
 ## Key Findings
 
 The assessment identified multiple source-level and runtime security issues, including:
