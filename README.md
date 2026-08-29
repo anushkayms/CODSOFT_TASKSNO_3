@@ -1,6 +1,6 @@
 # CODSOFT_TASKSNO_3
 SECURE CODE ASSESSMENT
-# 🔐 OWASP Juice Shop — Security Assessment
+# 🔐  OWASP Juice Shop — Security Assessment
 
 ### Cybersecurity Internship Project
 
